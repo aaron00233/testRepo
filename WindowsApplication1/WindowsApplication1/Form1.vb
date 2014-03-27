@@ -4,6 +4,7 @@
   
 
         ListBox1.Items.Add("Aaron")
+        ListBox1.Items.Add("Josh")
        
     End Sub
 End Class
